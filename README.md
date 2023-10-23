@@ -1,4 +1,4 @@
-10.13
+10.23
 # mimotion
 
 ![ 刷步数](https://github.com/TonyJiangWJ/mimotion/actions/workflows/run.yml/badge.svg)
