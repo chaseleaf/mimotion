@@ -1,4 +1,4 @@
-10.25hello world
+2024年12月6日hello world
 
 # mimotion
 
