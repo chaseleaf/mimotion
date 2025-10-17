@@ -1,3 +1,5 @@
+2025-10-17
+
 # mimotion
 
 ![ 刷步数](https://github.com/TonyJiangWJ/mimotion/actions/workflows/run.yml/badge.svg)
